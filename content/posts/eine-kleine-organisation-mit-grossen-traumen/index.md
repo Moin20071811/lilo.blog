@@ -3,6 +3,7 @@ title = "Eine kleine Organisation mit grossen Träumen"
 date = "2024-03-12"
 draft = false
 pinned = false
+image = "bild1-1-.png"
 +++
 {{<lead>}}Der Name ist noch nicht so bekannt, doch das verunsichert die Administratoren dieser Organisation keineswegs. Sie sind für alles zu haben. Eine Idee kommt auf und sie setzen sie um. Sie helfen Kindern und Jugendlichen und bieten eine grosse Anzahl an Angeboten an. {{</lead>}}
 
