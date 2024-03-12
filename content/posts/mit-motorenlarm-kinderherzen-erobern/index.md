@@ -26,6 +26,8 @@ Eine Organisation für Kinder
 
 Das “Chindernetz” unterstützt Jugendliche und Familien auf ihrem Lebensweg, sie lassen sich dabei durch vier Grundsätze leiten, Chancengerechtigkeit unterstützen, Gemeinschaft erleben, Erfahrungen teilen und Selbstwirksamkeit fördern. Diese Vier Grundsätze werden in zahlreichen Projekten des Chindernetzes umgesetzt, so wie zum Beispiel der Gott-Göttibatze. Dieser gibt Familien die finanzielle Möglichkeit, dass der Nachwuchs an sportlichen Aktivitäten teilnehmen kann. Die gemeinnützige Organisation setzt sich auch stark für Kinderrechte in der Schweiz ein und fördert die Politische Bildung in dem sie Lager für Schulklassen finanzieren und den Lehrpersonen nur eine Bedingung dafür auferlegen, nämlich muss das Lager eines der 17 Ziele der Agenda 2030 behandeln.
 
+<!--EndFragment-->
+
 ![Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)](bild1-1-.png "Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)")
 
 <!--StartFragment-->
@@ -50,4 +52,6 @@ Jeden Donnerstag Morgen machen sich die professionellen Märchenerzählerinnen a
 
 Damit beendet er seine Erzählung und deutet kurz auf das Tipi-Zelt, bevor er sich dem Hotdogstand zuwendet und sich wieder auf seine Arbeit konzentriert. 
 
-In diesem Tipi Zelt sitzen fünf aufmerksame Kinder auf weichen bunten Kissen und tauchen in die wundervolle Welt der Märchen ein. Sie schweben durch Täler und saftige Wiesen, begegnen bunten Gestalten und stellen sich mutig den feuerspeienden Wesen. Aber nicht nur Kinder hören zu, sondern auch Erwachsene lauschen gespannt und tauchen zusammen mit ihren Kindern in eine Welt ein, in der alles möglich ist. Mit dieser Aktion beginnen Kinderherzen zu strahlen und entführen diese jungen Gesichter aus der Welt des Inselspitals, in eine Welt voller Träume und Fantasien.
+In diesem Tipi Zelt sitzen fünf aufmerksame Kinder auf weichen bunten Kissen und tauchen in die wundervolle Welt der Märchen ein. Sie schweben durch Täler und saftige Wiesen, begegnen bunten Gestalten und stellen sich mutig den feuerspeienden Wesen. Aber nicht nur Kinder hören zu, sondern auch Erwachsene lauschen gespannt und tauchen zusammen mit ihren Kindern in eine Welt ein, in der alles möglich ist. Mit dieser Aktion beginnen Kinderherzen zu strahlen und entführen diese jungen Gesichter aus der Welt des Inselspitals, in eine Welt voller Träume und Fantasien. 
+
+<!--EndFragment-->
