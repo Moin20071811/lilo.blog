@@ -1,5 +1,5 @@
 +++
-title = "Eine kleine Organisation mit grossen Träumen"
+title = "Eine kleine Organisation mit grossen Träumen plaum"
 date = "2024-03-12"
 draft = false
 pinned = false
