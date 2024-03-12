@@ -48,3 +48,27 @@ Jede Aktion geht einem ans Herz! Wenn sich Kinder und Jugendliche engagieren, um
 **Was ist die Traumvorstellung fürs “Chindernetz”?**
 
 Mein Herzenswunsch ist es, dass ich hier mit dem Mikrophon auf einer Zug-Plattform stehen und fragen kann: Sagt euch der Name “Chindernetz” Kanton Bern etwas? und alle sagen: Ja klar, das ist die größte Kinder- und Jugendförderung Plattform des Kanton Berns!
+
+
+
+{{<Box>}}
+
+<!--StartFragment-->
+
+Stefan Beuter (Geschäftsleitung Kindernetz):
+
+Alter: 47
+
+Wohnort: Thun Blumenstein
+
+Angestellt seit: 2017
+
+Eva Maria Jutzi (Divers, Finanzen, Administration)
+
+Alter: 56
+
+Wohnort:  Bowil emmental
+
+Angestellt seit: 2010
+
+{{</Box>}}
