@@ -8,7 +8,7 @@ pinned = false
 
 Arwen Loosli und Milo Abplanalp
 
-![Mit dem Tannenbaum im Gepäck über den Bälizplatz (Bild Milo Abplanalp)]( "Dem Tannenbaum im Gepäck über den Bälizplatz")
+![Mit dem Tannenbaum im Gepäck über den Bälizplatz (Bild Milo Abplanalp)](bild1.png "Dem Tannenbaum im Gepäck über den Bälizplatz")
 
 <!--StartFragment-->
 
@@ -28,7 +28,7 @@ Das “Chindernetz” unterstützt Jugendliche und Familien auf ihrem Lebensweg,
 
 <!--EndFragment-->
 
-![Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)](bild1-1-.png "Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)")
+![Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)](bild1.png "Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)")
 
 <!--StartFragment-->
 
