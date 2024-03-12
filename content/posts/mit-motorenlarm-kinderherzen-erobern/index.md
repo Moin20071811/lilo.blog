@@ -8,7 +8,7 @@ pinned = false
 
 Arwen Loosli und Milo Abplanalp
 
-![Mit dem Tannenbaum im Gepäck über den Bälizplatz (Bild Milo Abplanalp)](blob:https://miloabplanalp.netlify.app/7f4021b9-b625-4a2d-b426-2834701e309b "Dem Tannenbaum im Gepäck über den Bälizplatz")
+![Mit dem Tannenbaum im Gepäck über den Bälizplatz (Bild Milo Abplanalp)]( "Dem Tannenbaum im Gepäck über den Bälizplatz")
 
 <!--StartFragment-->
 
